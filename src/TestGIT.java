@@ -3,5 +3,8 @@ public class TestGIT {
         System.out.println("Cos");
 
         System.out.println("cos nowego");
+
+        System.out.println("Test");
+        System.out.println("new branch");
     }
 }
